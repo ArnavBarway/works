@@ -18,7 +18,7 @@ const Works = () => {
               </div>
             </div>
              {/* Next Work */}
-            <h1><a href="http://devarnav.is-a.dev">I'll add more works later</a></h1>
+            <h1><a href="http://arnxv.is-a.dev">I'll add more works later</a></h1>
             {/* Add more works here */}
           </div>
         </div>
