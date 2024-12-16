@@ -13,7 +13,7 @@ const Works = () => {
                 alt="Work Title" 
               />
               <div className="p-4">
-                <h3 className="text-xl font-semibold mb-2"><a href="https://kind-nodes.vercel.app">KindNodes</a></h3>
+                <h3 className="text-xl font-semibold mb-2"><a href="https://kind-nodes.arnxv.is-a.dev">KindNodes</a></h3>
                 <p className="text-gray-600">This is a dashboard for minecraft server hosting, with pages: Home, Pricing, Features, Support, About Us, Contact Us, SignUp and Login.</p>
               </div>
             </div>
